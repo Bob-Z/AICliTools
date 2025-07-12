@@ -1,0 +1,10 @@
+transformers
+pillow
+torch
+torchvision
+
+# For remove BG
+kornia
+timm
+
+easygui
