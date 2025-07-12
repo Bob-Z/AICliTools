@@ -2,6 +2,8 @@ transformers
 pillow
 torch
 torchvision
+diffusers
+accelerate
 
 # For remove BG
 kornia
